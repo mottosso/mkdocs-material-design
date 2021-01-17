@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Material for MkDocs Insiders</ShortName>
+  <Description>
+    Material for MkDocs Insiders Search
+  </Description>
+  <Url type="text/html" method="get" template="https://squidfunk.github.io/mkdocs-material-insiders/?q={searchTerms}"/>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Language>en</Language>
+</OpenSearchDescription>
